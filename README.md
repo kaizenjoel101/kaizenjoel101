@@ -2,7 +2,7 @@
 
 ## 🚀 Web Developer
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer dedicated to building modern, responsive, and scalable web applications. I enjoy transforming ideas into clean, user-friendly digital experiences through clean code, thoughtful UI/UX design, and continuous learning.
+Welcome to my GitHub profile! I'm a passionate web developer who enjoys building modern, responsive, and scalable digital experiences.
 
 ---
 
