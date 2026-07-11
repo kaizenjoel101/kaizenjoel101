@@ -74,8 +74,9 @@ Welcome to my GitHub profile! I'm a passionate web developer who enjoys building
 
 ## 🤝 Let's Connect
 
-- 💼 **LinkedIn**
-- 📧 **Email**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 ---
 
