@@ -2,93 +2,83 @@
 
 ## 🚀 Web Developer
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer dedicated to building modern, responsive, and scalable web applications. I enjoy transforming ideas into clean, user-friendly digital experiences through efficient code and thoughtful UI/UX design.
+Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer dedicated to building modern, responsive, and scalable web applications. I enjoy transforming ideas into clean, user-friendly digital experiences through clean code, thoughtful UI/UX design, and continuous learning.
 
 ---
 
 ## 💫 About Me
 
-- 💻 Passionate about developing modern web applications and intuitive user interfaces.
-- 🚀 Currently building projects with **Next.js, React, Laravel, and Tailwind CSS**.
-- 🌱 Continuously learning new technologies, frameworks, and best practices in web development.
-- 🎨 Interested in UI/UX design, frontend engineering, and creating seamless user experiences.
-- 🤝 Open to collaborating on open-source projects, innovative web applications, and software solutions.
-- 💬 Ask me about **Next.js, React, Laravel, JavaScript, Tailwind CSS, or Full-Stack Development**.
-- ⚡ I believe that great software is built with clean code, attention to detail, and continuous improvement.
+- 💻 Passionate about building modern, scalable, and user-friendly web applications.
+- 🚀 Currently developing projects using **Next.js, React, Laravel, and Tailwind CSS**.
+- 🌱 Continuously learning new technologies and best practices in Full-Stack Development.
+- 🎨 Passionate about UI/UX Design and creating seamless digital experiences.
+- 🤝 Open to collaborating on innovative web applications and open-source projects.
+- 💬 Ask me about **Next.js, React, Laravel, JavaScript, Tailwind CSS, and Full-Stack Development.**
+- ⚡ I enjoy transforming complex problems into simple, elegant, and efficient solutions.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-## 💻 Frontend Development
+### Backend Development
 
-- Next.js
-- React
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
-- Shadcn UI
-- Bootstrap
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ---
 
-## ⚙️ Backend Development
+### Frontend Development
 
-- Laravel
-- PHP
-- REST API
-- Node.js (Basic)
-
----
-
-## 🗄️ Database
-
-- MySQL
-- PostgreSQL
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
-## 🎨 UI / UX Design
+### Styling & UI Frameworks
 
-- Figma
-- Responsive Web Design
-- Wireframing
-- Prototyping
-- User Interface Design
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
-## 🛠️ Tools & Technologies
+### Database
 
-- Git
-- GitHub
-- VS Code
-- Postman
-- XAMPP
-- npm
-- Vite
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 📈 Currently Learning
+### Tools & Version Control
 
-- TypeScript
-- NestJS
-- Prisma ORM
-- Docker
-- Cloud Deployment
-- Advanced React Patterns
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn
-- 📧 Email
+- 💼 **LinkedIn**
+- 📧 **Email**
 
 ---
 
 ### ⭐ Thanks for visiting my GitHub profile!
 
-*"Building modern web experiences with clean code, creativity, and continuous learning."*
+> *"Building modern web experiences with clean code, creativity, and continuous learning."*
