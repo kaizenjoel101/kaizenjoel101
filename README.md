@@ -1,6 +1,6 @@
 # Hi there, I'm Joel II M. Abrenilla 👋
 
-## 🚀 Full-Stack Web Developer
+## 🚀 Web Developer
 
 Welcome to my GitHub profile! I'm a passionate Full-Stack Web Developer dedicated to building modern, responsive, and scalable web applications. I enjoy transforming ideas into clean, user-friendly digital experiences through efficient code and thoughtful UI/UX design.
 
